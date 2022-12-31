@@ -4,7 +4,6 @@
 
 - <b>Setting up an Acitive Directory Lab using Virtual Box</b>
   - [AD set up in VirtualBox (Virtualization / AD / DHCP config / Powershell)]()
-- <b>
 
 <h2>:page_facing_up:Cerifications:</h2>
  
