@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Welcome! My name is Christof and this is my journey so far within the Cyber Sec world!</h1>
 
-<!--
-**chryber/chryber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Setting up an Acitive Directory Lab using Virtual Box</b>
+  - [AD set up in VirtualBox (Virtualization / AD / DHCP config / Powershell)]()
+- <b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>:page_facing_up:Cerifications:</h2>
+ 
+- [A+](https://www.credly.com/badges/ab04b24a-151d-4885-884f-4bdf2c426dc2/public_url)
+- 🔭 I’m currently working on ... Network +
+  
+<h2> 🤳 Social Media:</h2>
+
+[<img align="left" alt="ChristofPower | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/christofpower
+
