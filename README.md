@@ -3,12 +3,13 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Setting up an Acitive Directory Lab using Virtual Box</b>
-  - [AD set up in VirtualBox (Virtualization / AD / DHCP config / Powershell)]()
+  - [AD set up in VirtualBox (Virtualization / AD / DHCP config / Powershell)](https://github.com/chryber/Active-Directory-Lab-Project)
 
-<h2>:page_facing_up:Cerifications:</h2>
+<h2>:page_facing_up:Certifications:</h2>
  
 - [A+](https://www.credly.com/badges/ab04b24a-151d-4885-884f-4bdf2c426dc2/public_url)
 - 🔭 I’m currently working on ... Network +
+- 🔭 Working on next.. Security +
   
 <h2> 🤳 Social Media:</h2>
 
