@@ -10,7 +10,9 @@
 - [A+](https://www.credly.com/badges/ab04b24a-151d-4885-884f-4bdf2c426dc2/public_url)
 - 🔭 I’m currently working on ... Network +
 - 🔭 Working on next.. Security +
-  
+
+<h2>:heavy_plus_sign:Extras<h2>
+- 
 <h2> 🤳 Social Media:</h2>
 
 [<img align="left" alt="ChristofPower | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
