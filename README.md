@@ -1,4 +1,4 @@
-<h1>Welcome! My name is Christof and this is my journey so far in the Cyber Sec world!</h1>
+<h1>My Cyber Sec Journey Thus Far..!</h1>
 
 <h2>👨‍💻Projects:</h2>
 
