@@ -14,6 +14,7 @@
 <h2>:heavy_plus_sign:Extras</h2>
 
   - [TryHackMe](https://github.com/chryber/TryHackME)
+  - [Linux - Simple Shell Script](https://youtu.be/I2ySqce31O4)
 
 <h2> 🤳 Social Media:</h2>
 
