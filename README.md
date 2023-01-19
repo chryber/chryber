@@ -5,6 +5,7 @@ I currently work in the tech support field supporting SaaS educational platforms
 
 - <b>Setting up an Acitive Directory Lab using Virtual Box</b>
   - [AD set up in VirtualBox (Virtualization / AD / DHCP config / Powershell)](https://github.com/chryber/Active-Directory-Lab-Project)
+  - [Scanning Windows 10 VM using Nessus (Virtualization / Nessus )](https://github.com/chryber/NESSUS-Vulnerability-Scanner)
   - 🔭 Working on something now..!
 
 <h2>:page_facing_up:Certifications:</h2>
