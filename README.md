@@ -3,8 +3,9 @@ I currently work in the tech support field supporting SaaS educational platforms
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>Setting up an Acitive Directory Lab using Virtual Box</b>
+- <b>Setting up an Active Directory Lab using Virtual Box</b>
   - [AD set up in VirtualBox (Virtualization / AD / DHCP config / Powershell)](https://github.com/chryber/Active-Directory-Lab-Project)
+- <b>Vulnerability scanning with Tenable NESSUS</b>
   - [Scanning Windows 10 Virtual Machine using Nessus Essentials scanner (Virtualization / Nessus )](https://github.com/chryber/NESSUS-Vulnerability-Scanner)
   - 🔭 Working on something now..!
 
