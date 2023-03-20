@@ -7,6 +7,7 @@ I currently work in the tech support field supporting SaaS educational platforms
   - [AD set up in VirtualBox (Virtualization / AD / DHCP config / Powershell)](https://github.com/chryber/Active-Directory-Lab-Project)
 - <b>Vulnerability scanning with Tenable NESSUS</b>
   - [Scanning Windows 10 Virtual Machine using Nessus Essentials scanner (Virtualization / Nessus )](https://github.com/chryber/NESSUS-Vulnerability-Scanner)
+- <b>Future Projects</b>
   - 🔭 Working on something now..!
 
 <h2>:page_facing_up:Certifications:</h2>
