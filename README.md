@@ -8,7 +8,7 @@ I currently work in the tech support field supporting online educational platfor
 - <b>Vulnerability scanning with Tenable NESSUS</b>
   - [Scanning Windows 10 Virtual Machine using Nessus Essentials scanner (Virtualization / Nessus )](https://github.com/chryber/NESSUS-Vulnerability-Scanner)
 - <b>File Encryption</b>
-  - [File Encryption using open source tool GPG (Virtualization / Encryption / GPG /)](https://github.com/chryber/File-Encryption-with-GPG-aka-GnuPG)
+  - [File Encryption using open source tool GPG (Virtualization / Encryption / GPG)](https://github.com/chryber/File-Encryption-with-GPG-aka-GnuPG)
 - <b>Future Projects</b>
   - 🔭 Working on something now..!
 
