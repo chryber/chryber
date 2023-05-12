@@ -1,5 +1,5 @@
 <h1>Hi, my name is Christof Power</h1>
-I currently work in the tech support field supporting SaaS educational platforms for one of the largest textbook publishers in the world. I also spend most of my time off work to learning about various aspects of information security. Check out my journey so far. More to come!
+I currently work in the tech support field supporting educational platforms for one of the largest textbook publishers in the world. I also spend most of my time off work to learning about various aspects of information security. Check out my journey so far. More to come!
 
 <h2>👨‍💻Projects:</h2>
 
