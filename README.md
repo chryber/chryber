@@ -22,6 +22,7 @@ I currently work in the tech support field supporting online educational platfor
 <h2>:heavy_plus_sign:Extras</h2>
 
   - [TryHackMe](https://github.com/chryber/TryHackME)
+  - [College Labs](https://github.com/chryber/College-Labs)
   - [Linux - Simple Shell Script](https://youtu.be/I2ySqce31O4)
 
 <h2> 🤳 Social Media:</h2>
