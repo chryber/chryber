@@ -21,7 +21,7 @@ I currently work in the tech support field supporting online educational platfor
 - [A+](https://www.credly.com/badges/ab04b24a-151d-4885-884f-4bdf2c426dc2/public_url)
 - [Network+](https://www.credly.com/badges/08e11085-13dc-4a79-a2fc-c8f1c7572b24/public_url)
 - [Security+](https://www.credly.com/badges/e81dd879-1e91-4172-adf0-79b285b438f4/public_url)
-- 🔭 What's next ... Pentest+
+- 🔭 What's next ... eJPT
 
 <h2>:heavy_plus_sign:Extras</h2>
 
