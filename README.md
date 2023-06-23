@@ -12,6 +12,10 @@ I currently work in the tech support field supporting online educational platfor
 - <b>Future Projects</b>
   - 🔭 Working on something now..!
 
+<h2>💀Ethical Hacking</h2>
+
+- [Check out the journey](https://github.com/chryber/Eth-Hacking)
+
 <h2>:page_facing_up:Certifications:</h2>
  
 - [A+](https://www.credly.com/badges/ab04b24a-151d-4885-884f-4bdf2c426dc2/public_url)
