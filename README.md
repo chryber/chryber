@@ -9,6 +9,8 @@ I currently work in the tech support field supporting online educational platfor
   - [Scanning Windows 10 Virtual Machine using Nessus Essentials scanner (Virtualization / Nessus)](https://github.com/chryber/NESSUS-Vulnerability-Scanner)
 - <b>File Encryption</b>
   - [File Encryption using open source tool GPG (Virtualization / Encryption / GPG)](https://github.com/chryber/File-Encryption-with-GPG-aka-GnuPG)
+- <b>Brute Force Attacking</b>
+  - [Brute Force WINRM using Metasploit on Windows Server 2019 (Virtualization / Kali Linux / Server 2019)](https://github.com/chryber/Brute-Force-WINRM-using-Metasploit-for-AD-Access)
 - <b>Future Projects</b>
   - 🔭 Working on something now..!
 
