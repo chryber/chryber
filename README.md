@@ -1,5 +1,5 @@
 <h1>Hi, my name is Christof Power</h1>
-I currently work in the tech support field supporting online educational platforms for one of the largest textbook publishers in the world. I also spend most of my time off work to learning about various aspects of information security and networking. Check out my journey so far. More to come!
+I currently work in the tech support field supporting online educational platforms for one of the largest textbook publishers in the world. I also spend most of my time off work to learning about information security, specifically pentesting and some blue team content.
 
 <h2>👨‍💻Projects:</h2>
 
@@ -12,7 +12,7 @@ I currently work in the tech support field supporting online educational platfor
 - <b>Brute Force Attack</b>
   - [Brute Force WINRM using Metasploit on Windows Server 2019 (Virtualization / Kali Linux / Server 2019)](https://github.com/chryber/Brute-Force-WINRM-using-Metasploit-for-AD-Access)
 - <b>Future Projects</b>
-  - 🔭 Working on something now..!
+  - 🔭 Working on something now.. Python!
 
 <h2>💀Ethical Hacking</h2>
 
@@ -30,7 +30,6 @@ I currently work in the tech support field supporting online educational platfor
   - [TryHackMe](https://github.com/chryber/TryHackME)
   - [TryHackMe - ElasticSearch](https://github.com/chryber/TryHackMe---ElasticSearch)
   - [College Labs](https://github.com/chryber/College-Labs)
-  - [Linux - Simple Shell Script](https://youtu.be/I2ySqce31O4)
 
 <h2> 🤳 Social Media:</h2>
 
