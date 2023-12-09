@@ -18,7 +18,7 @@ I currently work in the tech support field supporting online educational platfor
 
 - [Check out the journey](https://github.com/chryber/Eth-Hacking)
 
-<h2>:page_with_curl:Certifications:</h2>
+<h2>:page_with_curl:Certifications</h2>
  
 - [A+](https://www.credly.com/badges/ab04b24a-151d-4885-884f-4bdf2c426dc2/public_url)
 - [Network+](https://www.credly.com/badges/08e11085-13dc-4a79-a2fc-c8f1c7572b24/public_url)
