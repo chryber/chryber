@@ -1,7 +1,7 @@
 <h1>Hi, my name is Christof Power</h1>
 I currently work in the tech support field supporting online educational platforms for one of the largest textbook publishers in the world. I also spend most of my time off work to learning about information security, specifically pentesting and some blue team content.
 
-<h2>👨‍💻Projects:</h2>
+<h2>👨‍💻Cyber Projects:</h2>
 
 - <b>Setting up an Active Directory Lab using Virtual Box</b>
   - [AD set up in VirtualBox (Virtualization / AD / DHCP config / Powershell)](https://github.com/chryber/Active-Directory-Lab-Project)
@@ -12,8 +12,14 @@ I currently work in the tech support field supporting online educational platfor
 - <b>Brute Force Attack</b>
   - [Brute Force WINRM using Metasploit on Windows Server 2019 (Virtualization / Kali Linux / Server 2019)](https://github.com/chryber/Brute-Force-WINRM-using-Metasploit-for-AD-Access)
 - <b>Future Projects</b>
-  - 🔭 Working on something now.. Python!
+  - 🔭 Working on something now..!
 
+<h2>🐍Python</h2>
+
+- <b>TIC TAC TOE</b>
+  -[Tic-Tac-Toe Game (written in Python)](https://github.com/chryber/TIC-TAC-TOE)
+- 🔭 More coming sssoon..!
+  
 <h2>💀Ethical Hacking</h2>
 
 - [Check out the journey](https://github.com/chryber/Eth-Hacking)
