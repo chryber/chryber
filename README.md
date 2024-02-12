@@ -1,5 +1,5 @@
-<h1>Hi, my name is Christof Power</h1>
-I currently work in the tech support field supporting online educational platforms for one of the largest textbook publishers in the world. I also spend most of my time off work to learning about information security, specifically pentesting and some blue team content.
+<h1>Hi, my name is Christof</h1>
+I currently work in the IT field supporting online educational platforms for one of the largest textbook publishers in the world. I also spend most of my time off work to learning about information security, specifically pentesting and some blue team content.
 
 <h2>👨‍💻Cyber Projects:</h2>
 
