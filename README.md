@@ -18,6 +18,8 @@ I currently work in the IT field supporting online educational platforms for one
 
 - <b>TIC TAC TOE</b>
   - [Tic-Tac-Toe Game](https://github.com/chryber/TIC-TAC-TOE)
+- <b> BlackJack</b>
+  - [Blackjack Card Game](https://github.com/chryber/Blackjack)
 - 🔭 More coming sssoon..!
   
 <h2>💀Ethical Hacking</h2>
