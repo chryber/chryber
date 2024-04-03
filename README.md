@@ -17,7 +17,7 @@ I currently work in the IT field supporting online educational platforms for one
 <h2>🐍Python</h2>
 
 - <b>TIC TAC TOE</b>
-  -[Tic-Tac-Toe Game (written in Python)](https://github.com/chryber/TIC-TAC-TOE)
+  -[Tic-Tac-Toe Game](https://github.com/chryber/TIC-TAC-TOE)
 - 🔭 More coming sssoon..!
   
 <h2>💀Ethical Hacking</h2>
