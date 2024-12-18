@@ -1,7 +1,7 @@
 # 👋 Welcome, my name is Christof!
 IT graduate and cyber enthusiast looking to expand my knowledge and showcase that knowledge leveraging Github. Check out my projects to see what I have been up to.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christofpower) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chryb3r) 
 
 # 💻 Tech Stack:
@@ -10,7 +10,7 @@ IT graduate and cyber enthusiast looking to expand my knowledge and showcase tha
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chryber&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Certifications:
+# 📄 Certifications:
  
 [![A+](https://github.com/user-attachments/assets/24c45e88-bd38-4b9d-a9ef-318d5350f7a1)](https://www.credly.com/badges/ab04b24a-151d-4885-884f-4bdf2c426dc2/public_url)
 [![Network+](https://github.com/user-attachments/assets/a4693eb7-b94b-4385-8b6b-8a438a6dc393)](https://www.credly.com/badges/08e11085-13dc-4a79-a2fc-c8f1c7572b24/public_url)
