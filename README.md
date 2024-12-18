@@ -1,5 +1,5 @@
 <h1>Hi, my name is Christof</h1>
-I currently work in the IT field supporting online educational platforms for one of the largest textbook publishers in the world. I also spend most of my time off work to learning about information security, specifically pentesting and some blue team content.
+An IT graduate and cyber enthusiast looking to expand my knowledge and showcase that knowledge leveraging Github. Check out my projects and additional content below to see what I have been up to. Connect with me via LinkedIn and check out my Medium blogspot as well.   
 
 <h2>👨‍💻Cyber Projects:</h2>
 
