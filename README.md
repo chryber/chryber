@@ -21,10 +21,6 @@ An IT graduate and cyber enthusiast looking to expand my knowledge and showcase 
 - <b> BlackJack</b>
   - [Blackjack Card Game](https://github.com/chryber/Blackjack)
 - 🔭 More coming sssoon..!
-  
-<h2>💀Ethical Hacking</h2>
-
-- [Check out the journey](https://github.com/chryber/Eth-Hacking)
 
 <h2>:page_with_curl:Certifications</h2>
  
