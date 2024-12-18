@@ -1,5 +1,5 @@
 <h1>Hi, my name is Christof</h1>
-An IT graduate and cyber enthusiast looking to expand my knowledge and showcase that knowledge leveraging Github. Check out my projects and additional content below to see what I have been up to. Connect with me via LinkedIn and check out my Medium blogspot as well.   
+An IT graduate and cyber enthusiast looking to expand my knowledge and showcase that knowledge leveraging Github. Check out my projects and additional content below to see what I have been up to. Connect with me via LinkedIn and check out my Medium and Youtube as well.   
 
 <h2>👨‍💻Cyber Projects:</h2>
 
