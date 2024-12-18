@@ -33,12 +33,6 @@ An IT graduate and cyber enthusiast looking to expand my knowledge and showcase 
 - [Security+](https://www.credly.com/badges/e81dd879-1e91-4172-adf0-79b285b438f4/public_url)
 - 🔭 What's next ... eJPT
 
-<h2>:heavy_plus_sign:Extras</h2>
-
-  - [TryHackMe](https://github.com/chryber/TryHackME)
-  - [TryHackMe - ElasticSearch](https://github.com/chryber/TryHackMe---ElasticSearch)
-  - [College Labs](https://github.com/chryber/College-Labs)
-
 <h2> 🤳 Social Media:</h2>
 
 [<img align="left" alt="ChristofPower | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
