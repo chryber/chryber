@@ -1,5 +1,5 @@
 # 👋 Welcome, my name is Christof!
-IT graduate and cyber enthusiast looking to expand my knowledge and showcase that knowledge leveraging Github. Check out my projects to see what I have been up to! You can also connect with me via Linked and/or follow me on Medium and Youtube via the links below.
+IT professional and cyber enthusiast looking to expand my knowledge and showcase that knowledge leveraging Github. Check out my projects to see what I have been up to! You can also connect with me via Linked and/or follow me on Medium and Youtube via the links below.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christofpower) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chryb3r) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@chryb3r)
